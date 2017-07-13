@@ -49,7 +49,7 @@
     <string name="srgb_summary">Enable sRGB display calibration</string>
 
     <!-- Night Display -->
-    <string name="night_display_warning">Please note that Night Light may increase battery consumption.</string>
+    <string name="night_display_warning">Обратите внимание, что Night Light может увеличить потребление батареи.</string>
     <string name="night_display_hide">Не показывать это предупреждение</string>
     <string name="night_display_ok">Ок</string>
 
@@ -142,14 +142,14 @@
     <!-- Lights settings screen, notification light settings -->
     <string name="notification_light_applist_title">Приложения</string>
     <string name="notification_light_phonelist_title">Телефон</string>
-    <string name="notification_light_use_custom">Use per-app values</string>
+    <string name="notification_light_use_custom">Изменить для конкретного приложения</string>
     <string name="notification_light_default_value">По умолчанию</string>
     <string name="notification_light_missed_call_title">Пропущенный вызов</string>
     <string name="notification_light_voicemail_title">Голосовое сообщение</string>
     <string name="notification_light_screen_on">При включенному экране</string>
     <string name="notification_light_zen_mode">В режиме "не беспокоить"</string>
     <string name="notification_light_use_multiple_leds">Multiple LEDs</string>
-    <string name="notification_light_dialog_text">Pick a color, pulse length and speed</string>
+    <string name="notification_light_dialog_text">Выбрать цвет, длительность и скорость</string>
 
     <!-- Lights settings, LED notification -->
     <string name="led_notification_text">LED light has been enabled</string>
