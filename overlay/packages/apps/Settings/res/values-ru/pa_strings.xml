@@ -20,14 +20,14 @@
     <string name="build_date">Дата сборки</string>
 
     <!-- Advanced reboot options -->
-    <string name="advanced_reboot_title">Extended reboot</string>
-    <string name="advanced_reboot_summary">Include options in the power menu for rebooting into recovery or bootloader</string>
+    <string name="advanced_reboot_title">Варианты перезапуска</string>
+    <string name="advanced_reboot_summary">Показывать дополнительные опции перезапуска устройства (перезапуск оболочки, переход в загрузчик или режим восстановления) в меню при долгом нажатии</string>
 
-    <string name="reset_all_settings">RESET ALL</string>
-    <string name="reset_selected_settings">RESET SELECTED</string>
-    <string name="reset_settings_title">Feature preferences</string>
-    <string name="reset_settings_summary">Reset Paranoid Android feature preferences</string>
-    <string name="keywords_settings_reset">reset</string>
+    <string name="reset_all_settings">СБРОСИТЬ ВСЁ</string>
+    <string name="reset_selected_settings">СБРОСИТЬ ВЫБРАННОЕ</string>
+    <string name="reset_settings_title">Возможности системы</string>
+    <string name="reset_settings_summary">Сбросить настройки Paranoid Android</string>
+    <string name="keywords_settings_reset">сброс</string>
 
     <string name="volbtn_music_controls_title">Playback control</string>
     <string name="volbtn_music_controls_summary">When the screen is off, long pressing the volume keys will seek music tracks</string>
@@ -59,14 +59,12 @@
 
     <!-- Gestures Settings -->
     <string name="gestures_settings_title">Жесты</string>
-    <string name="gestures_settings_summary">Customize off-screen and system gestures</string>
-    <string name="offscreen_gestures_title">Offscreen gestures</string>
+    <string name="gestures_settings_summary">Настроить системные жесты</string>
     <string name="system_gestures_title">Cистемные жесты</string>
-    <string name="keywords_gestures">screen touchscreen draw swipe finger</string>
 
     <!-- Buttons -->
     <string name="buttons_pref_title">Кнопки</string>
-    <string name="buttons_pref_summary">Customize your device keys and buttons</string>
+    <string name="buttons_pref_summary">Настроить кнопки и навигационный бар</string>
     <string name="enable_navigation_bar_title">Включение экранной панели навигации</string>
     <string name="enable_navigation_bar_summary">Включить экраную панель навигации и отключить аппаратные кнопки</string>
     <string name="swap_navigation_keys_title">Swap keys</string>
@@ -142,14 +140,14 @@
     <string name="pulse_speed_very_slow">Очень медленно</string>
 
     <!-- Lights settings screen, notification light settings -->
-    <string name="notification_light_applist_title">Apps</string>
-    <string name="notification_light_phonelist_title">Phone</string>
+    <string name="notification_light_applist_title">Приложения</string>
+    <string name="notification_light_phonelist_title">Телефон</string>
     <string name="notification_light_use_custom">Use per-app values</string>
-    <string name="notification_light_default_value">Default</string>
-    <string name="notification_light_missed_call_title">Missed call</string>
-    <string name="notification_light_voicemail_title">Voicemail</string>
-    <string name="notification_light_screen_on">Lights with screen on</string>
-    <string name="notification_light_zen_mode">Lights in do not disturb mode</string>
+    <string name="notification_light_default_value">По умолчанию</string>
+    <string name="notification_light_missed_call_title">Пропущенный вызов</string>
+    <string name="notification_light_voicemail_title">Голосовое сообщение</string>
+    <string name="notification_light_screen_on">При включенному экране</string>
+    <string name="notification_light_zen_mode">В режиме "не беспокоить"</string>
     <string name="notification_light_use_multiple_leds">Multiple LEDs</string>
     <string name="notification_light_dialog_text">Pick a color, pulse length and speed</string>
 
