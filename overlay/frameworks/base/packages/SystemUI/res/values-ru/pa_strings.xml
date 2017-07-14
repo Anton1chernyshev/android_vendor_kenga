@@ -59,11 +59,11 @@
     <string name="quick_settings_night_display_hide">Не показывать это предупреждение</string>
 
     <!-- Content description of the location tile in quick settings when on, battery saving mode (not shown on the screen). [CHAR LIMIT=NONE] -->
-    <string name="accessibility_quick_settings_location_battery_saving">Location reporting: battery saving mode.</string>
+    <string name="accessibility_quick_settings_location_battery_saving">Местоположение: режим экономии заряда.</string>
     <!-- Content description of the location tile in quick settings when on, sensors only mode (not shown on the screen). [CHAR LIMIT=NONE] -->
-    <string name="accessibility_quick_settings_location_gps_only">Location reporting: sensors only mode.</string>
+    <string name="accessibility_quick_settings_location_gps_only">Местоположение: использование сенсоров.</string>
     <!-- Content description of the location tile in quick settings when on, high accuracy mode (not shown on the screen). [CHAR LIMIT=NONE] -->
-    <string name="accessibility_quick_settings_location_high_accuracy">Location reporting: high accuracy mode.</string>
+    <string name="accessibility_quick_settings_location_high_accuracy">Местоположение: режим повышенной точности.</string>
 
     <!-- QuickSettings: Location (On, low-power) [CHAR LIMIT=NONE] -->
     <string name="quick_settings_location_battery_saving_label">Экономия батареи</string>
@@ -76,7 +76,7 @@
     <string name="quick_settings_location_high_accuracy_label_twoline">Высокая\nточность</string>
 
     <!-- QuickSettings: Location detail panel title [CHAR LIMIT=NONE] -->
-    <string name="quick_settings_location_detail_title">Location</string>
+    <string name="quick_settings_location_detail_title">Местоположение</string>
     <!-- QuickSettings: Location detail panel menu title [CHAR LIMIT=NONE] -->
 
     <string name="quick_settings_location_detail_menu_title">Выберите режим:</string>
@@ -95,13 +95,13 @@
 
     <!-- QuickSettings: Alert slider tile related strings (re-using some of the do not disturb ones) [CHAR LIMIT=NONE] -->
     <string name="quick_settings_alert_slider_unavailable">Alert slider tile not available</string>
-    <string name="quick_settings_alert_slider_detail_alarms_only_description">This blocks ALL sounds and vibrations except those from alarms and media playback.</string>
+    <string name="quick_settings_alert_slider_detail_alarms_only_description">Это блокирует ВСЕ звуки и вибрации, кроме будильника и медиа.</string>
     <string name="quick_settings_alert_slider_none_label">Все уведомления</string>
-    <string name="quick_settings_alert_slider_detail_disabled_message_description">Additional settings are not available when do not disturb is off.</string>
+    <string name="quick_settings_alert_slider_detail_disabled_message_description">Дополнительные настройки недоступны, когда режим «Не беспокоить» отключен.</string>
 
-    <string name="zen_footer_alert_slider_priority_only_summary">Specified notifications only</string>
-    <string name="zen_footer_alert_slider_alarms_only_summary">Alarms and media playback only</string>
-    <string name="zen_footer_alert_slider_no_interruptions_summary">No sounds and interruptions</string>
+    <string name="zen_footer_alert_slider_priority_only_summary">Только приоритетные уведомления</string>
+    <string name="zen_footer_alert_slider_alarms_only_summary">Только будильник и медиа</string>
+    <string name="zen_footer_alert_slider_no_interruptions_summary">Без звука</string>
 
     <string name="quick_settings_alert_slider_detail_priority_events_title">События</string>
     <string name="quick_settings_alert_slider_detail_priority_reminders_title">Напоминания</string>
