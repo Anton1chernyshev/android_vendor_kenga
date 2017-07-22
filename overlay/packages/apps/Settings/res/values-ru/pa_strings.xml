@@ -29,8 +29,8 @@
     <string name="reset_settings_summary">Сбросить настройки Paranoid Android</string>
     <string name="keywords_settings_reset">сброс</string>
 
-    <string name="volbtn_music_controls_title">Playback control</string>
-    <string name="volbtn_music_controls_summary">When the screen is off, long pressing the volume keys will seek music tracks</string>
+    <string name="volbtn_music_controls_title">Управление воспроизведением</string>
+    <string name="volbtn_music_controls_summary">Когда экран выключен, длительное нажатие на кнопки громкости переключает трек</string>
 
     <!-- Status bar - Battery -->
     <string name="battery_style_title">Индикатор батареи</string>
@@ -101,8 +101,8 @@
     <string name="leds">Настройки LED-индикации</string>
     <string name="notification_light_settings">Уведомления</string>
     <string name="reset">Сбросить</string>
-    <string name="batterylight_title">Battery LED settings</string>
-    <string name="battery_light_enable">Enable</string>
+    <string name="batterylight_title">Настройки LED-индикации батареи</string>
+    <string name="battery_light_enable">Включить</string>
     <string name="battery_low_pulse_title">Мигать при низком уровне заряда</string>
     <string name="battery_light_list_title">Цвета</string>
     <string name="battery_light_low_color_title">Батарея разряжена</string>
@@ -110,7 +110,7 @@
     <string name="battery_light_full_color_title">Почти заряжена (90%)</string>
     <string name="battery_light_really_full_color_title">Заряжена (100%)</string>
     <string name="profile_choose_app">Выберите приложение</string>
-    <string name="edit_battery_settings">Edit battery settings</string>
+    <string name="edit_battery_settings">Настроить индикацию батареи</string>
     <string name="led_color_green">Зеленый</string>
     <string name="led_color_red">Красный</string>
     <string name="led_color_blue">Синий</string>
@@ -145,11 +145,11 @@
     <string name="notification_light_voicemail_title">Голосовое сообщение</string>
     <string name="notification_light_screen_on">При включенному экране</string>
     <string name="notification_light_zen_mode">В режиме "не беспокоить"</string>
-    <string name="notification_light_use_multiple_leds">Multiple LEDs</string>
+    <string name="notification_light_use_multiple_leds">Разноцветная LED-индикация</string>
     <string name="notification_light_dialog_text">Выбрать цвет, длительность и скорость</string>
 
     <!-- Lights settings, LED notification -->
-    <string name="led_notification_text">LED light has been enabled</string>
-    <string name="notification_light_no_apps_summary">To add per app control, activate \'%1$s\' and press \'\u002b\' on the menu bar</string>
+    <string name="led_notification_text">LED-индикатор включен</string>
+    <string name="notification_light_no_apps_summary">Добавьте конкретное приложения, активировав \'%1$s\' и нажав \'\u002b\' в панели управления</string>
 
 </resources>
