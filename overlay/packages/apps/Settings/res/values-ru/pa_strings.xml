@@ -120,7 +120,7 @@
     <string name="led_color_green">Зеленый</string>
     <string name="led_color_red">Красный</string>
     <string name="led_color_blue">Синий</string>
-    <string name="advanced">Другой</string>
+    <string name="advanced">Другие</string>
     <string name="profiles_add">Добавить...</string>
 
     <!-- Notification light dialogs -->
