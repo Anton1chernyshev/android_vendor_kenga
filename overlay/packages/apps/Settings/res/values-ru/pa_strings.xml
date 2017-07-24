@@ -58,6 +58,12 @@
     <string name="gestures_settings_title">Жесты</string>
     <string name="gestures_settings_summary">Настроить системные жесты</string>
     <string name="system_gestures_title">Cистемные жесты</string>
+    <string name="offscreen_gestures_title">Жесты при выключенном экране</string>
+
+    <string name="gestures_double_tap">Двойной тап</string>
+
+    <string name="gestures_disabled">Отключено</string>
+    <string name="gestures_wake_device">Пробуждение устройства</string>
 
     <!-- Buttons -->
     <string name="buttons_pref_title">Кнопки</string>

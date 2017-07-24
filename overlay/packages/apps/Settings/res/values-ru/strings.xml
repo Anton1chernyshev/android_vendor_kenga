@@ -18,4 +18,9 @@
     <!-- StorageCleaner Settings -->
     <string name="storage_menu_cleanup">Очистка</string>
 
+    <string name="action_kill_foreground_app">Закрытие приложения</string>
+
+    <string name="hardware_keys_action_single_handed_left">Режим управления одной рукой (слева)</string>
+    <string name="hardware_keys_action_single_handed_right">Single hand mode (справа)</string>
+
 </resources>

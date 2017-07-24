@@ -19,9 +19,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Assist manager -->
-    <string name="no_assist_found">No assist manager found</string>
-
     <!-- {Global Actions} -->
     <!-- Label for item that takes a screenshot in phone options dialog. -->
     <string name="global_action_screenshot">Скриншот</string>
@@ -31,5 +28,11 @@
     <string name="reboot_bootloader">Загрузчик</string>
 
     <string name="reboot_confirm" product="default">Ваше телефон будет перезагружен.</string>
+
+    <!-- Long-press back kill application -->
+    <string name="app_killed_message">Приложение закрыто</string>
+
+    <!-- Single hand mode -->
+    <string name="singlehandmode_click_hint_message">Чтобы отключить управление одной рукой, нажмите за пределами изображения</string>
 
 </resources>
